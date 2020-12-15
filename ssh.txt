@@ -1,15 +1,15 @@
-===Informasi SSH Account===
-Host                  23.97.60.156
-Username              mem1
-Password              mem1
-Port OpenSSH          22,444
-Port Dropbear         80,143
-Port SSL              443
-Host Squid            23.97.60.156
-Port Squid            8000,8080
-Port UDPGW            7200
-Config OpenVPN TCP    http://23.97.60.156:81/client-tcp.ovpn
-Config OpenVPN UDP    http://23.97.60.156:81/client-udp.ovpn
-------
-Aktif Sampai  Dec 21, 2020
-==========================
+===Informasi SSH Account===-line
+Host                  23.97.60.156-line
+Username              mem1-line
+Password              mem1-line
+Port OpenSSH          22,444-line
+Port Dropbear         80,143-line
+Port SSL              443-line
+Host Squid            23.97.60.156-line
+Port Squid            8000,8080-line
+Port UDPGW            7200-line
+Config OpenVPN TCP    http://23.97.60.156:81/client-tcp.ovpn-line
+Config OpenVPN UDP    http://23.97.60.156:81/client-udp.ovpn-line
+------line
+Aktif Sampai  Dec 21, 2020-line
+==========================-line
